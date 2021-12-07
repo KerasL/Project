@@ -1,0 +1,14 @@
+Pygame Documentation  -- https://www.pygame.org/docs
+
+https://nerdparadise.com/programming
+PyGame Stuff --> PyGame Basics Tutorial -->
+Getting Started
+Working with Images
+Music and Sound Effects
+Geometric Drawing
+Fonts and Text
+More on Input
+Centralized Scene Logic
+
+https://self-learning-java-tutorial.blogspot.com/2015/12/pygame-tutorial.html
+https://self-learning-java-tutorial.blogspot.com/2015/12/python-tutorial.html
